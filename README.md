@@ -20,7 +20,7 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by:RANTHIYA S
 RegisterNumber: 212225230225
-*/
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -57,9 +57,8 @@ plt.ylabel("Y")
 plt.legend()
 plt.title("Linear Regression using Gradient Descent")
 plt.show()
-
+*/
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 <img width="1579" height="611" alt="image" src="https://github.com/user-attachments/assets/50fdceb7-0d43-495a-a577-683af29e6edc" />
 
 
